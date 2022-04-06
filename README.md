@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Nodejs, MongoDB, Electron**
 
-- 👨‍💻 All of my projects are available at [ivanmercedes.com](ivanmercedes.com)
+- 👨‍💻 All of my projects are available at [https://ivanmercedes.com](ivanmercedes.com)
 
 - 💬 Ask me about **React, PHP, Javascript, Nodejs**
 
