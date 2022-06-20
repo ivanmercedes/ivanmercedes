@@ -16,6 +16,3 @@
 
 - ⚡ Fun fact **A good programmer is someone who always looks both ways before crossing a one-way street.**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanmercedes&show_icons=true&locale=en&layout=compact" alt="ivanmercedes" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanmercedes&show_icons=true&locale=en" alt="ivanmercedes" /></p>
