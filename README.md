@@ -10,9 +10,5 @@
 
 - 👨‍💻 All of my projects are available at [https://ivanmercedes.com](https://ivanmercedes.com)
 
-- 💬 Ask me about **React, PHP, Javascript, Nodejs**
-
-- 📫 How to reach me **ivanmercede@gmail.com**
-
 - ⚡ Fun fact **A good programmer is someone who always looks both ways before crossing a one-way street.**
 
