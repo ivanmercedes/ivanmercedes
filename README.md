@@ -9,3 +9,11 @@
 
 
 
+<div align="center">
+  <a href="https://commit-history.com/ivanmercedes">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/ivanmercedes?theme=dark" />
+      <img alt="ivanmercedes's commit history" src="https://commit-history.com/embed/ivanmercedes" />
+    </picture>
+  </a>
+</div>
